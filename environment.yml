@@ -1,0 +1,18 @@
+# Conda environment for the Gaia DR4 workshop Python notebook.
+#   conda env create -f environment.yml
+#   conda activate gaia-workshop
+#   jupyter lab
+name: gaia-workshop
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - astropy
+  - astroquery
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyterlab
+  - pip
+  - pip:
+      - gaiaxpy>=2.1.5
