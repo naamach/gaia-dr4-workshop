@@ -582,4 +582,4 @@ In the notebook (`### H.`). The XP continuous spectra are fetched once through D
 
 ---
 
-*Written by Na'ama Hallakoun for the Gaia DR3 hands-on workshop (2022) of the Department of Particle Physics and Astrophysics, Weizmann Institute of Science, and updated by her for the department's Gaia DR4 hands-on workshop (October 2026); the update was prepared with the help of Claude Fable 5.1 (Anthropic). All screenshots were taken with TOPCAT 4.10 on Gaia DR3 data.*
+*Written by Na'ama Hallakoun for the Gaia DR3 hands-on workshop (2022) of the Department of Particle Physics and Astrophysics, Weizmann Institute of Science, and updated by her for the department's Gaia DR4 hands-on workshop (October 2026); the update was prepared with the help of Claude Fable 5.1 (Anthropic). All screenshots were taken with TOPCAT 4.10 on Gaia DR3 data. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): reuse and adapt freely with attribution.*
